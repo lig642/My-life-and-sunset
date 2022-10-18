@@ -107,7 +107,7 @@ width: 600px;
 height: 400px;
 }
 
-poster3{
+.poster3{
 width:500px;
 height:349px;
 margin-top: 1px;
@@ -142,7 +142,7 @@ height: 900px;
 
 .poster5{
 width:215px;
-height:700px;
+height:200px;
 background-image: url(night7.jpg);
 animation-name: myanimation;
 animation-duration: 2s;
